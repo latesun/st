@@ -1,6 +1,5 @@
 ### My Personal st
-This is a fork from [st](https://st.suckless.org). There are many patches just for me.
-:qa
+This is a fork from [st](https://st.suckless.org), inclued my perfered patches.
 
 ### Patches
 #### 1. Use `Shift+(PgUp/PgDn)` or `Shift+MouseWheel` to scrollback
