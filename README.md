@@ -15,3 +15,6 @@ This is a fork from [st](https://st.suckless.org). There are many patches just f
 
 #### 4. Dracula theme
 - [st-dracula-0.8.2.diff](https://st.suckless.org/patches/dracula/st-dracula-0.8.2.diff)
+
+### TODO
+1. Clipboard don't work in st.
